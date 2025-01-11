@@ -1,0 +1,1563 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: solion\n"
+"POT-Creation-Date: 2021-11-04 19:42+0530\n"
+"PO-Revision-Date: 2021-09-15 18:35+0530\n"
+"Last-Translator: \n"
+"Language-Team: wordpressriver@gmail.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_attr_e;esc_attr__;esc_attr;__e;__;_e;esc_html_x;"
+"_x;esc_attr_x;__x;esc_html__;esc_html_e;esc_html\n"
+"X-Poedit-SearchPath-0: solion\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: solion/404.php:24
+msgid "404 ERROR"
+msgstr ""
+
+#: solion/404.php:26 solion/archive.php:60 solion/author.php:33
+#: solion/category.php:33 solion/index.php:33
+#: solion/page-templates/blog-2column.php:15
+#: solion/page-templates/blog-3column.php:15
+#: solion/page-templates/blog-sidebar.php:15
+#: solion/page-templates/blog-standard.php:15
+#: solion/page-templates/pages.php:17 solion/page.php:33 solion/search.php:33
+#: solion/single.php:33 solion/tag.php:33
+msgid "Home"
+msgstr ""
+
+#: solion/404.php:27
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: solion/404.php:45
+msgid "404"
+msgstr ""
+
+#: solion/404.php:46
+msgid "SORRY PAGE WAS NOT FOUND!"
+msgstr ""
+
+#: solion/404.php:47
+msgid "Back To Home"
+msgstr ""
+
+#: solion/archive.php:33
+msgid "Daily Archives: "
+msgstr ""
+
+#: solion/archive.php:36
+msgid "Monthly Archives: "
+msgstr ""
+
+#: solion/archive.php:40
+msgid "Yearly Archives: "
+msgstr ""
+
+#: solion/archive.php:54 solion/archive.php:61
+msgid "Archives"
+msgstr ""
+
+#: solion/author.php:31
+msgid "All posts by "
+msgstr ""
+
+#: solion/author.php:34
+msgid "Author Archives"
+msgstr ""
+
+#: solion/category.php:31
+msgid "Category Archives: "
+msgstr ""
+
+#: solion/category.php:34
+msgid "Category Archives"
+msgstr ""
+
+#: solion/comments.php:19
+msgid "0 Comment"
+msgstr ""
+
+#: solion/comments.php:19 solion/page-templates/blog-2column.php:52
+#: solion/page-templates/blog-3column.php:52
+#: solion/template-parts/content-page.php:23
+#: solion/template-parts/content-single.php:24
+#: solion/template-parts/content.php:30
+msgid "1 Comment"
+msgstr ""
+
+#: solion/comments.php:19 solion/page-templates/blog-2column.php:52
+#: solion/page-templates/blog-3column.php:52
+#: solion/template-parts/content-page.php:23
+#: solion/template-parts/content-single.php:24
+#: solion/template-parts/content.php:30
+msgid "% Comments"
+msgstr ""
+
+#: solion/comments.php:43 twentytwentyone/comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: solion/comments.php:53
+msgid "Leave a Comment"
+msgstr ""
+
+#: solion/comments.php:61
+msgid "Name"
+msgstr ""
+
+#: solion/comments.php:67 solion/inc/redux/config.php:104
+msgid "Email"
+msgstr ""
+
+#: solion/comments.php:74
+msgid "Your Comment"
+msgstr ""
+
+#: solion/comments.php:76
+msgid "Post Comment"
+msgstr ""
+
+#: solion/footer-v1.php:21 solion/footer-v2.php:21 solion/header-pages.php:116
+#: solion/header-v1.php:116 solion/inc/redux/config.php:326
+#: solion/inc/redux/config.php:333
+msgid "Logo"
+msgstr ""
+
+#: solion/footer-v1.php:97 solion/footer-v2.php:98 solion/footer.php:25
+msgid "Copyright &copy;  2021. Designed by"
+msgstr ""
+
+#: solion/footer-v1.php:97 solion/footer-v2.php:98 solion/footer.php:25
+msgid "WordPressRiver"
+msgstr ""
+
+#: solion/functions.php:33 solion/functions.php:39 solion/functions.php:40
+msgid "on"
+msgstr ""
+
+#: solion/functions.php:287 solion/functions.php:297
+msgid "Main Menu"
+msgstr ""
+
+#: solion/functions.php:288 solion/inc/redux/config.php:284
+#: solion/inc/redux/config.php:294 solion/inc/redux/config.php:302
+msgid "Additional Links"
+msgstr ""
+
+#: solion/functions.php:289 solion/inc/redux/config.php:425
+#: solion/inc/redux/config.php:443
+msgid "Company Links"
+msgstr ""
+
+#: solion/functions.php:290 solion/inc/redux/config.php:470
+msgid "Solution Links"
+msgstr ""
+
+#: solion/functions.php:357
+msgid "Main Sidebar"
+msgstr ""
+
+#: solion/functions.php:359
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: solion/functions.php:410 solion/functions.php:427
+msgid ""
+"Import process may take 2-5 minutes. If you facing any issues please contact "
+"our support."
+msgstr ""
+
+#: solion/header-pages.php:91 solion/header-v1.php:91 solion/header-v2.php:43
+#: solion/header.php:42 solion/search.php:74 solion/searchform.php:4
+msgid "Search Here..."
+msgstr ""
+
+#: solion/inc/redux/config.php:22
+msgid "Solion Options"
+msgstr ""
+
+#: solion/inc/redux/config.php:48
+msgid "Top Bar"
+msgstr ""
+
+#: solion/inc/redux/config.php:49
+msgid "topbar"
+msgstr ""
+
+#: solion/inc/redux/config.php:54 solion/inc/redux/config.php:199
+#: solion/inc/redux/config.php:291 solion/inc/redux/config.php:432
+#: solion/inc/redux/config.php:459 solion/inc/redux/config.php:486
+msgid "Heading"
+msgstr ""
+
+#: solion/inc/redux/config.php:57 solion/inc/redux/config.php:479
+#: solion/inc/redux/config.php:489
+msgid "Contact Info"
+msgstr ""
+
+#: solion/inc/redux/config.php:62 solion/inc/redux/config.php:494
+msgid "Section 1"
+msgstr ""
+
+#: solion/inc/redux/config.php:69 solion/inc/redux/config.php:101
+#: solion/inc/redux/config.php:133 solion/inc/redux/config.php:165
+#: solion/inc/redux/config.php:353
+msgid "Title"
+msgstr ""
+
+#: solion/inc/redux/config.php:72
+msgid "Address"
+msgstr ""
+
+#: solion/inc/redux/config.php:77 solion/inc/redux/config.php:109
+#: solion/inc/redux/config.php:141 solion/inc/redux/config.php:173
+#: solion/inc/redux/config.php:214 solion/inc/redux/config.php:238
+#: solion/inc/redux/config.php:262 solion/inc/redux/config.php:501
+#: solion/inc/redux/config.php:533 solion/inc/redux/config.php:558
+msgid "Icon Class"
+msgstr ""
+
+#: solion/inc/redux/config.php:79 solion/inc/redux/config.php:111
+#: solion/inc/redux/config.php:143 solion/inc/redux/config.php:175
+#: solion/inc/redux/config.php:216 solion/inc/redux/config.php:240
+#: solion/inc/redux/config.php:264 solion/inc/redux/config.php:504
+#: solion/inc/redux/config.php:536 solion/inc/redux/config.php:561
+msgid "Paste Font-Aweosme Icon Class"
+msgstr ""
+
+#: solion/inc/redux/config.php:81 solion/inc/redux/config.php:505
+msgid "fas fa-map-marker-alt"
+msgstr ""
+
+#: solion/inc/redux/config.php:86 solion/inc/redux/config.php:118
+#: solion/inc/redux/config.php:150 solion/inc/redux/config.php:182
+#: solion/inc/redux/config.php:510 solion/inc/redux/config.php:542
+#: solion/inc/redux/config.php:568
+msgid "Text"
+msgstr ""
+
+#: solion/inc/redux/config.php:89
+msgid "California, TX 70240"
+msgstr ""
+
+#: solion/inc/redux/config.php:94 solion/inc/redux/config.php:526
+msgid "Section 2"
+msgstr ""
+
+#: solion/inc/redux/config.php:113
+msgid "fas fa-envelope-open"
+msgstr ""
+
+#: solion/inc/redux/config.php:121 solion/inc/redux/config.php:545
+msgid "Info@gmail.com"
+msgstr ""
+
+#: solion/inc/redux/config.php:126 solion/inc/redux/config.php:551
+msgid "Section 3"
+msgstr ""
+
+#: solion/inc/redux/config.php:136
+msgid "OFFICE HOURS"
+msgstr ""
+
+#: solion/inc/redux/config.php:145
+msgid "fas fa-clock"
+msgstr ""
+
+#: solion/inc/redux/config.php:153
+msgid "Office Hours: 8:00 AM – 7:45 PM"
+msgstr ""
+
+#: solion/inc/redux/config.php:158
+msgid "Section 4"
+msgstr ""
+
+#: solion/inc/redux/config.php:168
+msgid "Phone"
+msgstr ""
+
+#: solion/inc/redux/config.php:177 solion/inc/redux/config.php:562
+msgid "fas fa-phone"
+msgstr ""
+
+#: solion/inc/redux/config.php:185
+msgid "+123 456 7890"
+msgstr ""
+
+#: solion/inc/redux/config.php:192
+msgid "Social Icons"
+msgstr ""
+
+#: solion/inc/redux/config.php:193
+msgid "socialicons"
+msgstr ""
+
+#: solion/inc/redux/config.php:202
+msgid "Connect With Us"
+msgstr ""
+
+#: solion/inc/redux/config.php:207
+msgid "Section One"
+msgstr ""
+
+#: solion/inc/redux/config.php:218
+msgid "fab fa-facebook-f"
+msgstr ""
+
+#: solion/inc/redux/config.php:223 solion/inc/redux/config.php:247
+#: solion/inc/redux/config.php:271 solion/inc/redux/config.php:361
+msgid "Link"
+msgstr ""
+
+#: solion/inc/redux/config.php:226 solion/inc/redux/config.php:250
+#: solion/inc/redux/config.php:274 solion/inc/redux/config.php:364
+msgid "#"
+msgstr ""
+
+#: solion/inc/redux/config.php:231
+msgid "Section Two"
+msgstr ""
+
+#: solion/inc/redux/config.php:242
+msgid "fab fa-twitter"
+msgstr ""
+
+#: solion/inc/redux/config.php:255
+msgid "Section Three"
+msgstr ""
+
+#: solion/inc/redux/config.php:266
+msgid "fab fa-linkedin-in"
+msgstr ""
+
+#: solion/inc/redux/config.php:285
+msgid "additional"
+msgstr ""
+
+#: solion/inc/redux/config.php:299 solion/inc/redux/config.php:413
+#: solion/inc/redux/config.php:440 solion/inc/redux/config.php:467
+msgid "Menu Location"
+msgstr ""
+
+#: solion/inc/redux/config.php:310
+msgid "Header"
+msgstr ""
+
+#: solion/inc/redux/config.php:311
+msgid "header"
+msgstr ""
+
+#: solion/inc/redux/config.php:316
+msgid "Favicon"
+msgstr ""
+
+#: solion/inc/redux/config.php:343
+msgid "Sticky Logo"
+msgstr ""
+
+#: solion/inc/redux/config.php:356
+msgid "Request a Quote"
+msgstr ""
+
+#: solion/inc/redux/config.php:371 twentytwentyone/functions.php:358
+msgid "Footer"
+msgstr ""
+
+#: solion/inc/redux/config.php:372
+msgid "footer"
+msgstr ""
+
+#: solion/inc/redux/config.php:377
+msgid "Footer Logo"
+msgstr ""
+
+#: solion/inc/redux/config.php:387
+msgid "Footer Logo Version 2"
+msgstr ""
+
+#: solion/inc/redux/config.php:397
+msgid "Description"
+msgstr ""
+
+#: solion/inc/redux/config.php:400
+msgid ""
+"Happen active county. Winding for the morning am shyness evident to poor. "
+"Garrets because elderly new."
+msgstr ""
+
+#: solion/inc/redux/config.php:405
+msgid "CopyRight Text"
+msgstr ""
+
+#: solion/inc/redux/config.php:408
+msgid "&copy; Copyright 2021. solion WordPres Theme By WordPressRiver"
+msgstr ""
+
+#: solion/inc/redux/config.php:416
+msgid "Footer Menu"
+msgstr ""
+
+#: solion/inc/redux/config.php:426
+msgid "companylinkshead"
+msgstr ""
+
+#: solion/inc/redux/config.php:435
+msgid "Company"
+msgstr ""
+
+#: solion/inc/redux/config.php:452
+msgid "Solutions Links"
+msgstr ""
+
+#: solion/inc/redux/config.php:453
+msgid "solutionlinkshead"
+msgstr ""
+
+#: solion/inc/redux/config.php:462
+msgid "Solutions"
+msgstr ""
+
+#: solion/inc/redux/config.php:480
+msgid "contactinfofooter"
+msgstr ""
+
+#: solion/inc/redux/config.php:513
+msgid "5919 Trussville Crossings Pkwy"
+msgstr ""
+
+#: solion/inc/redux/config.php:518 solion/inc/redux/config.php:576
+msgid "Text Line 2"
+msgstr ""
+
+#: solion/inc/redux/config.php:521
+msgid "Birmingham AL 35235"
+msgstr ""
+
+#: solion/inc/redux/config.php:537
+msgid "fas fa-envelope"
+msgstr ""
+
+#: solion/inc/redux/config.php:571 solion/inc/redux/config.php:579
+msgid "+123-456-7890"
+msgstr ""
+
+#: solion/inc/solion-class-wp-bootstrap-navwalker.php:222
+#: solion/inc/solion-class-wp-bootstrap-navwalker.php:450
+msgid "Add a menu"
+msgstr ""
+
+#: solion/index.php:31 solion/index.php:34
+#: solion/page-templates/blog-2column.php:16
+#: solion/page-templates/blog-3column.php:16
+#: solion/page-templates/blog-sidebar.php:16
+#: solion/page-templates/blog-standard.php:16
+msgid "Blog"
+msgstr ""
+
+#: solion/page-templates/blog-2column.php:52
+#: solion/page-templates/blog-3column.php:52
+#: solion/template-parts/content-page.php:23
+#: solion/template-parts/content-single.php:24
+#: solion/template-parts/content.php:30
+msgid "0 Comments"
+msgstr ""
+
+#: solion/page-templates/blog-2column.php:61
+#: solion/page-templates/blog-3column.php:61
+#: solion/template-parts/content.php:44
+msgid "Read More"
+msgstr ""
+
+#: solion/page-templates/pages.php:18 solion/page.php:34
+msgid "Pages"
+msgstr ""
+
+#: solion/search.php:31
+msgid "Search Results For : "
+msgstr ""
+
+#: solion/search.php:34
+msgid "Search Results"
+msgstr ""
+
+#: solion/search.php:67
+msgid "Nothing Found"
+msgstr ""
+
+#: solion/search.php:70
+#: twentytwentyone/template-parts/content/content-none.php:56
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: solion/single.php:34
+msgid "Blog Posts"
+msgstr ""
+
+#: solion/tag.php:31
+msgid "Tag Archives: "
+msgstr ""
+
+#: solion/tag.php:34
+msgid "Tag Archives"
+msgstr ""
+
+#: solion/template-parts/content-page.php:45
+#: solion/template-parts/content-single.php:46
+msgid "Previous Post"
+msgstr ""
+
+#: solion/template-parts/content-page.php:52
+#: solion/template-parts/content-single.php:53
+msgid "Next Post"
+msgstr ""
+
+#: solion/template-parts/content.php:25
+msgid "STICKY POST"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:393
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:912
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2618
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:394
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:1019
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:1206
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3594
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3594
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: solion/tgm-plugin/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: solion/tgm-plugin/recommend_plugins.php:63
+msgid "Contact Form 7"
+msgstr ""
+
+#: solion/tgm-plugin/recommend_plugins.php:69
+msgid "One Click Demo Import"
+msgstr ""
+
+#: solion/tgm-plugin/recommend_plugins.php:83
+msgid "Redux Framework"
+msgstr ""
+
+#: solion/tgm-plugin/recommend_plugins.php:89
+msgid "Safe SVG"
+msgstr ""
+
+#: solion/tgm-plugin/recommend_plugins.php:95
+msgid "Solion Extensions"
+msgstr ""
+
+#: twentytwentyone/404.php:16
+#: twentytwentyone/template-parts/content/content-none.php:30
+msgid "Nothing here"
+msgstr ""
+
+#: twentytwentyone/404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-customize-notice-control.php:39
+msgid "To access the Dark Mode settings, select a light background color."
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-customize-notice-control.php:40
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:178
+msgid ""
+"https://wordpress.org/support/article/twenty-twenty-one/#dark-mode-support"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-customize-notice-control.php:41
+msgid "Learn more about Dark Mode."
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-customize.php:75
+msgid "Display Site Title & Tagline"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-customize.php:85
+msgid "Excerpt Settings"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-customize.php:106
+msgid "On Archive Pages, posts show:"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-customize.php:108
+msgid "Summary"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-customize.php:109
+msgid "Full text"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-customize.php:138
+msgid "Background color"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:134
+msgid "Colors & Dark Mode"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:177
+#, php-format
+msgid ""
+"Dark Mode is a device setting. If a visitor to your site requests it, your "
+"site will be shown with a dark background and light text. <a href=\"%s"
+"\">Learn more about Dark Mode.</a>"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:181
+msgid ""
+"Dark Mode can also be turned on and off with a button that you can find in "
+"the bottom right corner of the page."
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:188
+msgid "Dark Mode support"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:321
+#, php-format
+msgid "Dark Mode: %s"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:331
+msgid "Off"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:334
+msgid "On"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:378
+msgid "Twenty Twenty-One uses LocalStorage when Dark Mode support is enabled."
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:379
+msgid "Suggested text:"
+msgstr ""
+
+#: twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php:380
+msgid ""
+"This website uses LocalStorage to save the setting when Dark Mode support is "
+"turned on or off.<br> LocalStorage is necessary for the setting to work and "
+"is only used when a user clicks on the Dark Mode button.<br> No data is "
+"saved in the database or transferred."
+msgstr ""
+
+#: twentytwentyone/comments.php:35
+msgid "1 comment"
+msgstr ""
+
+#: twentytwentyone/comments.php:62 twentytwentyone/image.php:45
+#: twentytwentyone/inc/template-tags.php:228
+#: twentytwentyone/template-parts/content/content-page.php:33
+#: twentytwentyone/template-parts/content/content-single.php:27
+#: twentytwentyone/template-parts/content/content.php:33
+msgid "Page"
+msgstr ""
+
+#: twentytwentyone/comments.php:67
+msgid "Older comments"
+msgstr ""
+
+#: twentytwentyone/comments.php:71
+msgid "Newer comments"
+msgstr ""
+
+#: twentytwentyone/comments.php:87
+msgid "Leave a comment"
+msgstr ""
+
+#: twentytwentyone/footer.php:24 twentytwentyone/functions.php:77
+#: twentytwentyone/inc/starter-content.php:165
+msgid "Secondary menu"
+msgstr ""
+
+#: twentytwentyone/footer.php:60
+#, php-format
+msgid "Proudly powered by %s."
+msgstr ""
+
+#: twentytwentyone/footer.php:61
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: twentytwentyone/functions.php:76 twentytwentyone/inc/starter-content.php:154
+#: twentytwentyone/template-parts/header/site-nav.php:13
+msgid "Primary menu"
+msgstr ""
+
+#: twentytwentyone/functions.php:150
+msgid "Extra small"
+msgstr ""
+
+#: twentytwentyone/functions.php:151
+msgid "XS"
+msgstr ""
+
+#: twentytwentyone/functions.php:156
+msgid "Small"
+msgstr ""
+
+#: twentytwentyone/functions.php:157
+msgid "S"
+msgstr ""
+
+#: twentytwentyone/functions.php:162
+msgid "Normal"
+msgstr ""
+
+#: twentytwentyone/functions.php:163
+msgid "M"
+msgstr ""
+
+#: twentytwentyone/functions.php:168
+msgid "Large"
+msgstr ""
+
+#: twentytwentyone/functions.php:169
+msgid "L"
+msgstr ""
+
+#: twentytwentyone/functions.php:174
+msgid "Extra large"
+msgstr ""
+
+#: twentytwentyone/functions.php:175
+msgid "XL"
+msgstr ""
+
+#: twentytwentyone/functions.php:180
+msgid "Huge"
+msgstr ""
+
+#: twentytwentyone/functions.php:181
+msgid "XXL"
+msgstr ""
+
+#: twentytwentyone/functions.php:186
+msgid "Gigantic"
+msgstr ""
+
+#: twentytwentyone/functions.php:187
+msgid "XXXL"
+msgstr ""
+
+#: twentytwentyone/functions.php:218
+msgid "Black"
+msgstr ""
+
+#: twentytwentyone/functions.php:223 twentytwentyone/inc/block-styles.php:107
+msgid "Dark gray"
+msgstr ""
+
+#: twentytwentyone/functions.php:228
+msgid "Gray"
+msgstr ""
+
+#: twentytwentyone/functions.php:233
+msgid "Green"
+msgstr ""
+
+#: twentytwentyone/functions.php:238
+msgid "Blue"
+msgstr ""
+
+#: twentytwentyone/functions.php:243
+msgid "Purple"
+msgstr ""
+
+#: twentytwentyone/functions.php:248
+msgid "Red"
+msgstr ""
+
+#: twentytwentyone/functions.php:253
+msgid "Orange"
+msgstr ""
+
+#: twentytwentyone/functions.php:258
+msgid "Yellow"
+msgstr ""
+
+#: twentytwentyone/functions.php:263
+msgid "White"
+msgstr ""
+
+#: twentytwentyone/functions.php:274
+msgid "Purple to yellow"
+msgstr ""
+
+#: twentytwentyone/functions.php:279
+msgid "Yellow to purple"
+msgstr ""
+
+#: twentytwentyone/functions.php:284
+msgid "Green to yellow"
+msgstr ""
+
+#: twentytwentyone/functions.php:289
+msgid "Yellow to green"
+msgstr ""
+
+#: twentytwentyone/functions.php:294
+msgid "Red to yellow"
+msgstr ""
+
+#: twentytwentyone/functions.php:299
+msgid "Yellow to red"
+msgstr ""
+
+#: twentytwentyone/functions.php:304
+msgid "Purple to red"
+msgstr ""
+
+#: twentytwentyone/functions.php:309
+msgid "Red to purple"
+msgstr ""
+
+#: twentytwentyone/functions.php:360
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: twentytwentyone/header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: twentytwentyone/image.php:48
+#: twentytwentyone/template-parts/content/content-page.php:36
+#: twentytwentyone/template-parts/content/content-single.php:30
+#: twentytwentyone/template-parts/content/content.php:36
+msgid "Page %"
+msgstr ""
+
+#: twentytwentyone/image.php:61
+#, php-format
+msgid "Published in %s"
+msgstr ""
+
+#: twentytwentyone/image.php:70 twentytwentyone/image.php:95
+#: twentytwentyone/inc/template-tags.php:92
+#: twentytwentyone/inc/template-tags.php:135
+#: twentytwentyone/template-parts/content/content-page.php:48
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: twentytwentyone/image.php:83
+msgid "Full size"
+msgstr ""
+
+#: twentytwentyone/inc/back-compat.php:42
+#: twentytwentyone/inc/back-compat.php:61
+#: twentytwentyone/inc/back-compat.php:86
+#, php-format
+msgid ""
+"This theme requires WordPress 5.3 or newer. You are running version %s. "
+"Please upgrade."
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:20
+msgid "Twenty Twenty-One"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:33
+msgid "Large text"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:36
+msgid "A new portfolio default theme for WordPress"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:44
+msgid "Links area"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:47
+msgid "A huge text followed by social networks and email address links."
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:48
+msgid "Let&#8217;s Connect."
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:48
+msgid "Twitter"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:48
+msgid "Instagram"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:48
+msgid "Dribbble"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:48
+#: twentytwentyone/inc/block-patterns.php:117
+msgid "example@example.com"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:56
+msgid "Media and text article title"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:59
+msgid ""
+"A Media & Text block with a big image on the left and a heading on the "
+"right. The heading is followed by a separator and a description paragraph."
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:60
+msgid "&#8220;Playing in the Sand&#8221; by Berthe Morisot"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:60
+msgid "Playing in the Sand"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:60
+msgid "Berthe Morisot<br>(French, 1841-1895)"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:68
+msgid "Overlapping images"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:71
+msgid "Three images inside an overlapping columns block."
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:72
+#: twentytwentyone/inc/block-patterns.php:107
+#: twentytwentyone/inc/starter-content.php:43
+msgid "&#8220;Roses Trémières&#8221; by Berthe Morisot"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:72
+#: twentytwentyone/inc/block-patterns.php:107
+#: twentytwentyone/inc/starter-content.php:51
+msgid "&#8220;In the Bois de Boulogne&#8221; by Berthe Morisot"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:72
+#: twentytwentyone/inc/block-patterns.php:107
+#: twentytwentyone/inc/starter-content.php:61
+msgid "&#8220;Young Woman in Mauve&#8221; by Berthe Morisot"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:80
+msgid "Two images showcase"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:83
+msgid ""
+"A media & text block with a big image on the left and a smaller one with "
+"bordered frame on the right."
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:84
+msgid "&#8220;Daffodils&#8221; by Berthe Morisot"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:84
+msgid "&#8220;Self portrait&#8221; by Berthe Morisot"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:92
+msgid "Overlapping images and text"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:95
+msgid "An overlapping columns block with two images and a text description."
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:96
+#: twentytwentyone/inc/block-patterns.php:107
+msgid "&#8220;The Garden at Bougival&#8221; by Berthe Morisot"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:96
+msgid "Beautiful gardens painted by Berthe Morisot in the late 1800s"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:96
+msgid "&#8220;Villa with Orange Trees, Nice&#8221; by Berthe Morisot"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:104
+msgid "Portfolio list"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:106
+msgid "A list of projects with thumbnail images."
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:107
+msgid "Roses Trémières"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:107
+msgid "Villa with Orange Trees, Nice"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:107
+msgid "In the Bois de Boulogne"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:107
+msgid "The Garden at Bougival"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:107
+msgid "Young Woman in Mauve"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:107
+msgid "Reading"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:107
+msgid "&#8220;Reading&#8221; by Berthe Morisot"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:114
+msgid "Contact information"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:116
+msgid ""
+"A block with 3 columns that display contact information and social media "
+"links."
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:117
+msgid "123-456-7890"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:117
+msgid "123 Main Street"
+msgstr ""
+
+#: twentytwentyone/inc/block-patterns.php:117
+msgid "Cambridge, MA, 02139"
+msgstr ""
+
+#: twentytwentyone/inc/block-styles.php:26
+msgid "Overlap"
+msgstr ""
+
+#: twentytwentyone/inc/block-styles.php:35
+#: twentytwentyone/inc/block-styles.php:44
+#: twentytwentyone/inc/block-styles.php:53
+#: twentytwentyone/inc/block-styles.php:80
+#: twentytwentyone/inc/block-styles.php:89
+msgid "Borders"
+msgstr ""
+
+#: twentytwentyone/inc/block-styles.php:62
+msgid "Frame"
+msgstr ""
+
+#: twentytwentyone/inc/block-styles.php:71
+msgid "Dividers"
+msgstr ""
+
+#: twentytwentyone/inc/block-styles.php:98
+msgid "Thick"
+msgstr ""
+
+#: twentytwentyone/inc/menu-functions.php:34
+msgid "Open menu"
+msgstr ""
+
+#: twentytwentyone/inc/starter-content.php:30
+#: twentytwentyone/inc/starter-content.php:33
+msgid "Create your website with blocks"
+msgstr ""
+
+#: twentytwentyone/inc/starter-content.php:73
+msgid "Add block patterns"
+msgstr ""
+
+#: twentytwentyone/inc/starter-content.php:77
+msgid ""
+"Block patterns are pre-designed groups of blocks. To add one, select the Add "
+"Block button [+] in the toolbar at the top of the editor. Switch to the "
+"Patterns tab underneath the search bar, and choose a pattern."
+msgstr ""
+
+#: twentytwentyone/inc/starter-content.php:83
+msgid "Frame your images"
+msgstr ""
+
+#: twentytwentyone/inc/starter-content.php:87
+msgid ""
+"Twenty Twenty-One includes stylish borders for your content. With an Image "
+"block selected, open the \"Styles\" panel within the Editor sidebar. Select "
+"the \"Frame\" block style to activate it."
+msgstr ""
+
+#: twentytwentyone/inc/starter-content.php:93
+msgid "Overlap columns"
+msgstr ""
+
+#: twentytwentyone/inc/starter-content.php:97
+msgid ""
+"Twenty Twenty-One also includes an overlap style for column blocks. With a "
+"Columns block selected, open the \"Styles\" panel within the Editor sidebar. "
+"Choose the \"Overlap\" block style to try it out."
+msgstr ""
+
+#: twentytwentyone/inc/starter-content.php:112
+msgid "Need help?"
+msgstr ""
+
+#: twentytwentyone/inc/starter-content.php:122
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: twentytwentyone/inc/starter-content.php:128
+msgid "Check out the Support Forums"
+msgstr ""
+
+#: twentytwentyone/inc/template-functions.php:138
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: twentytwentyone/inc/template-functions.php:183
+msgid "Untitled"
+msgstr ""
+
+#: twentytwentyone/inc/template-functions.php:422
+msgid "This content is password protected. Please enter a password to view."
+msgstr ""
+
+#: twentytwentyone/inc/template-functions.php:424
+msgid "Password"
+msgstr ""
+
+#: twentytwentyone/inc/template-functions.php:424
+msgid "Submit"
+msgstr ""
+
+#: twentytwentyone/inc/template-functions.php:424
+msgid "Enter"
+msgstr ""
+
+#: twentytwentyone/inc/template-tags.php:29
+#, php-format
+msgid "Published %s"
+msgstr ""
+
+#: twentytwentyone/inc/template-tags.php:49
+#: twentytwentyone/template-parts/post/author-bio.php:19
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: twentytwentyone/inc/template-tags.php:77
+msgid "Featured post"
+msgstr ""
+
+#: twentytwentyone/inc/template-tags.php:104
+#: twentytwentyone/inc/template-tags.php:114
+#: twentytwentyone/inc/template-tags.php:148
+#: twentytwentyone/inc/template-tags.php:158
+msgid ", "
+msgstr ""
+
+#: twentytwentyone/inc/template-tags.php:108
+#: twentytwentyone/inc/template-tags.php:152
+#, php-format
+msgid "Categorized as %s"
+msgstr ""
+
+#: twentytwentyone/inc/template-tags.php:118
+#: twentytwentyone/inc/template-tags.php:162
+#, php-format
+msgid "Tagged %s"
+msgstr ""
+
+#: twentytwentyone/inc/template-tags.php:234
+msgid "Newer <span class=\"nav-short\">posts</span>"
+msgstr ""
+
+#: twentytwentyone/inc/template-tags.php:245
+msgid "Older <span class=\"nav-short\">posts</span>"
+msgstr ""
+
+#: twentytwentyone/search.php:21
+#: twentytwentyone/template-parts/content/content-none.php:22
+#, php-format
+msgid "Results for \"%s\""
+msgstr ""
+
+#: twentytwentyone/searchform.php:24
+msgid "Search&hellip;"
+msgstr ""
+
+#: twentytwentyone/searchform.php:26
+msgid "Search"
+msgstr ""
+
+#: twentytwentyone/single.php:25
+#, php-format
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</"
+"span>"
+msgstr ""
+
+#: twentytwentyone/single.php:39
+msgid "Next post"
+msgstr ""
+
+#: twentytwentyone/single.php:40
+msgid "Previous post"
+msgstr ""
+
+#: twentytwentyone/template-parts/content/content-none.php:43
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: twentytwentyone/template-parts/content/content-none.php:61
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: twentytwentyone/template-parts/header/site-nav.php:16
+msgid "Menu"
+msgstr ""
+
+#: twentytwentyone/template-parts/header/site-nav.php:19
+msgid "Close"
+msgstr ""
+
+#: twentytwentyone/template-parts/post/author-bio.php:31
+#, php-format
+msgid "View all of %s's posts."
+msgstr ""

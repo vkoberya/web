@@ -1,0 +1,768 @@
+:root {
+  --default-color: #00c9ff;
+}
+
+/* Boostnav.css */
+
+.navbar .attr-nav form button {
+  background: var(--default-color);
+}
+
+.navbar .side .widget .contact li .icon i {
+  color: var(--default-color);
+}
+
+nav.navbar .quote-btn a {
+  border: 2px solid var(--default-color);
+}
+
+.attr-nav ul.cart-list li.total a {
+  background: var(--default-color) none repeat scroll 0 0;
+}
+
+
+
+.attr-nav ul.cart-list li.total a:hover {
+  background: var(--default-color) none repeat scroll 0 0 !important;
+}
+
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a .badge {
+  background: var(--default-color);
+}
+
+.attr-nav > ul > li.button-border > a {
+  border: 2px solid var(--default-color);
+}
+
+.attr-nav > ul > li > a span.badge {
+  background-color: var(--default-color);
+}
+
+
+.navbar.bg-dark .top-search {
+  background: var(--default-color) none repeat scroll 0 0;
+}
+
+
+.navbar .side .widget li a:hover {
+  color: var(--default-color);
+}
+
+.navbar .side .widget.social li a:hover {
+  background: var(--default-color) none repeat scroll 0 0;
+}
+
+.navbar .side .address li .icon i {
+  color: var(--default-color);
+}
+
+.side .widget ul.link li a {
+  color: var(--default-color);
+}
+
+nav.navbar.bootsnav .share.dark ul > li > a {
+  background-color: var(--default-color);
+}
+
+nav.navbar.bootsnav .share ul > li > a:hover {
+  color: var(--default-color);
+}
+
+@media (min-width: 1024px) {
+
+  nav.navbar.bootsnav.bg-theme {
+    background: var(--default-color);
+  }
+
+  .attr-nav.extra-color > ul > li.side-menu > a {
+    color: var(--default-color) !important;
+  }
+
+
+  nav.navbar.navbar-default.bootsnav.navbar-fixed-light::after {
+    background: var(--default-color);
+  }
+
+  nav.navbar.navbar-default.bootsnav.navbar-fixed-light a.navbar-brand::before {
+    background: var(--default-color);
+  }
+
+
+  nav.navbar.bootsnav ul.nav > li > a.active {
+    color: var(--default-color);
+  }
+
+  nav.navbar.bootsnav.active-bg ul.nav > li > a.active {
+    background: var(--default-color) !important;
+  }
+
+  nav.navbar.bootsnav.active-border ul.nav > li > a.active::before {
+    border-bottom: 3px solid var(--default-color);
+  }
+
+  .navbar.bootsnav.bg-theme .attr-nav li.quote-btn a {
+    color: var(--default-color);
+  }
+
+ 
+  nav.navbar.bootsnav ul.nav > li.active > a {
+    color: var(--default-color);
+  }
+
+  nav.navbar.bootsnav.active-full ul.nav > li > a.active,
+    nav.navbar.bootsnav.active-full ul.nav > li > a:hover {
+    background: var(--default-color) none repeat scroll 0 0 !important;
+  }
+
+  nav.navbar.bootsnav ul.nav > li > a:hover {
+    color: var(--default-color);
+  }
+
+  nav.navbar.bootsnav ul.navbar-right li.dropdown ul.dropdown-menu li a:hover {
+    color: var(--default-color);
+  }
+
+  nav.navbar.bootsnav ul.navbar-left li.dropdown ul.dropdown-menu li a:hover {
+    color: var(--default-color);
+  }
+
+  nav.bootsnav.navbar-sidebar ul.nav > li > a:hover {
+    color: var(--default-color);
+  }
+
+  nav.navbar.bootsnav ul.nav li.dropdown > ul.dropdown-menu li:hover > a {
+    color: var(--default-color) !important;
+  }
+
+  .attr-nav > ul > li.contact i {
+    color: var(--default-color);
+  }
+
+  .attr-nav > ul.button > li > a {
+    background: var(--default-color);
+  }
+
+  .attr-nav > ul > li.button a {
+    background: var(--default-color);
+  }
+
+  .attr-nav.menu li:last-child a {
+    background: var(--default-color) none repeat scroll 0 0;
+  }
+
+  .attr-nav.button li a i {
+    color: var(--default-color);
+  }
+
+  .attr-nav > ul > li.button a {
+    background: var(--default-color);
+  }
+
+}
+
+/* Style.css */
+
+.bg-theme {
+  background-color: var(--default-color);
+}
+
+.shadow.dark-small::after {
+  background: var(--default-color) none repeat scroll 0 0;
+}
+
+.shadow.theme::after {
+  background: var(--default-color) none repeat scroll 0 0;
+}
+
+.shadow.theme-hard::after {
+  background: var(--default-color) none repeat scroll 0 0;
+}
+
+.btn-gray.border {
+  color: var(--default-color);
+}
+
+.btn-gray.border:hover {
+  background-color: var(--default-color);
+  border: 2px solid var(--default-color) !important;
+}
+
+.btn-animate .circle {
+  background: var(--default-color);
+}
+
+.btn-animate .button-text {
+  color: var(--default-color);
+}
+
+.bg-gradient {
+  background: var(--default-color);
+}
+
+.btn-theme {
+  background-color: var(--default-color);
+  border: 2px solid var(--default-color);
+}
+
+.btn-theme.border {
+  border: 2px solid var(--default-color) !important;
+}
+
+.btn-theme.border:hover {
+  background-color: var(--default-color);
+  border: 2px solid var(--default-color);
+}
+
+.btn-theme.effect:hover, 
+.btn-theme.effect:focus {
+  background: var(--default-color) none repeat scroll 0 0;
+  border: 2px solid var(--default-color);
+}
+
+.attr-nav > a.btn-theme.effect:hover, 
+.attr-nav > a.btn-theme.effect, 
+.attr-nav > a.btn-theme.effect:focus {
+  background: var(--default-color) none repeat scroll 0 0;
+  border: 2px solid var(--default-color);
+}
+
+.attr-nav.social li a {
+  color: var(--default-color);
+}
+
+body.overflow::after {
+  background: var(--default-color);
+}
+
+.nav-indicator {
+    background: var(--default-color);
+}
+
+nav.navbar.off-canvas-nav.show ul.main li a:hover {
+    color: var(--default-color);
+}
+
+.site-heading h5 {
+  color: var(--default-color);
+}
+
+.site-heading .devider {
+  background: var(--default-color);
+}
+
+.site-heading .devider:before {
+  background: var(--default-color);
+}
+
+.heading-divider {
+  background-color: var(--default-color);
+}
+
+
+.heading-left h5 {
+  color: var(--default-color);
+}
+
+.top-bar-area .info li i {
+  color: var(--default-color);
+}
+
+.top-bar-area .info-colums ul li .icon i {
+  color: var(--default-color);
+}
+
+.banner-area .appoinment-box button {
+  background: var(--default-color);
+}
+
+.video-play-button {
+  color: var(--default-color);
+}
+
+.video-play-button.theme:before,
+.video-play-button.theme:after {
+  background: var(--default-color) repeat scroll 0 0;
+}
+
+.video-play-button i {
+  color: var(--default-color);
+}
+
+.services-area .services-items .item i {
+  color: var(--default-color);
+}
+
+
+.services-area .services-items .item h4 a:hover {
+  color: var(--default-color);
+}
+
+.bottom-content a:hover {
+  color: var(--default-color);
+}
+
+.services-area .services-box .item i::after {
+  background: var(--default-color);
+}
+
+.services-area .services-content .item::before {
+  background: var(--default-color);
+}
+
+.about-area .info h5 {
+  color: var(--default-color);
+}
+
+.about-area .info .progress-box .progress .progress-bar span {
+  background: var(--default-color);
+}
+
+.about-area .info .progress-box .progress .progress-bar span::after {
+  border-top: 5px solid var(--default-color);
+}
+
+.about-area .about-content .item i {
+  color: var(--default-color);
+}
+
+.faq-area .thumb::after {
+  border: 50px solid var(--default-color);
+}
+
+.faq-area .faq-content h5 {
+  color: var(--default-color);
+}
+
+
+
+.faq-area .faq-content .card .card-header h4 strong {
+  background: var(--default-color);
+}
+
+.faq-area .faq-content .card .card-header h4 strong::after {
+  background: var(--default-color);
+}
+
+.technology-area a i {
+  color: var(--default-color);
+}
+
+.work-process-area .process-items .item span {
+  color: var(--default-color);
+}
+
+.choose-us-area .info h5 {
+  color: var(--default-color);
+}
+
+.choose-us-area .info .contact i {
+  background: var(--default-color);
+}
+
+.choose-us-area .info .contact i::after {
+  background: var(--default-color);
+}
+
+.choose-us-area .skill-items .progress-box .progress .progress-bar span {
+  background: var(--default-color);
+}
+
+
+.choose-us-area .skill-items .progress-box .progress .progress-bar span::after {
+  border-top: 5px solid var(--default-color);
+}
+
+
+.testimonials-area .testimonials-carousel .item .thumb i {
+  background: var(--default-color);
+}
+
+.testimonials-area .testimonials-carousel .item .bottom span {
+  color: var(--default-color);
+}
+
+.testimonials-area .testimonials-carousel .item .bottom i {
+  color: var(--default-color);
+}
+
+
+.testimonials-area .testimonials-carousel .owl-nav .owl-next, 
+.testimonials-area .testimonials-carousel .owl-prev {
+  color: var(--default-color);
+}
+
+.testimonials-area .testimonials-carousel .owl-nav .owl-next:hover, 
+.testimonials-area .testimonials-carousel .owl-prev:hover {
+  color: var(--default-color);
+}
+
+.case-items-area .pf-item .item .thumb a {
+  color: var(--default-color);
+}
+
+.pricing-area .pricing .pricing-item ul li i {
+  color: var(--default-color);
+}
+
+.blog-area .blog-content .info form button {
+    background: var(--default-color);
+}
+
+.blog-area .blog-items .item .thumb .date {
+  color: var(--default-color);
+}
+
+.blog-area .blog-items .info h2 a:hover,
+.blog-area .blog-items .info h3 a:hover,
+.blog-area .blog-items .info h4 a:hover {
+  color: var(--default-color);
+}
+
+.blog-area .blog-items .info .meta ul li i {
+  color: var(--default-color);
+}
+
+.blog-area .blog-items .info .meta ul li a:hover,
+.blog-area .blog-items .info h4 a:hover,
+.blog-area .btn-more:hover {
+  color: var(--default-color);
+}
+
+.blog-area.content-less .btn-more {
+  color: var(--default-color);
+}
+
+.blog-area .sidebar .title h4::after {
+  border-bottom: 2px solid var(--default-color);
+}
+
+.blog-area .sidebar button[type="submit"] {
+    background: var(--default-color);
+}
+
+
+.blog-area .sidebar input[type="submit"]:hover {
+  background: var(--default-color) none repeat scroll 0 0;
+}
+
+.blog-area .sidebar .sidebar-item li a:hover {
+  color: var(--default-color);
+}
+
+.sidebar-item.recent-post .meta-title i {
+  color: var(--default-color);
+}
+
+.sidebar-item.recent-post li a:hover {
+  color: var(--default-color);
+}
+
+.sidebar-item.tags ul li a:hover {
+  color: var(--default-color);
+}
+
+.blog-area .sidebar .sidebar-item.add-banner .sidebar-info::after {
+  background: var(--default-color);
+}
+
+.blog-area.single .item .content-box span {
+  background: var(--default-color) none repeat scroll 0 0;
+}
+
+.blog-area .item blockquote::before {
+  background: var(--default-color);
+}
+
+.blog-area .item blockquote::after {
+  color: var(--default-color);
+}
+
+.blog-area .blog-content .share li a {
+  color: var(--default-color);
+}
+
+.blog-area.single .post-pagi-area a {
+    color: var(--default-color);
+}
+
+.blog-area.single .post-pagi-area a:hover {
+  color: var(--default-color);
+}
+
+.comments-list .commen-item .content .title span {
+    color: var(--default-color);
+}
+
+.comments-info a:hover {
+  color: var(--default-color);
+}
+
+
+.comments-info a:hover {
+    background: var(--default-color);
+}
+
+.comments-form button {
+  background: var(--default-color);
+}
+
+
+.comments-form button:hover {
+  background-color: var(--default-color);
+}
+
+.pagination li a {
+  color: var(--default-color);
+}
+
+.pagination li.page-item.active a {
+  background: var(--default-color);
+  border-color: var(--default-color);
+}
+
+.post-nav-links .post-page-numbers {
+  color: var(--default-color);
+}
+
+.post-nav-links .post-page-numbers.current, .post-nav-links .post-page-numbers.current:hover {
+  background: var(--default-color);
+  border-color: var(--default-color);
+}
+
+.contact-area .item i {
+  color: var(--default-color);
+}
+
+
+.contact-area .left-info .content-box > h5 {
+  color: var(--default-color);
+}
+
+
+.contact-area .content form button {
+  background: var(--default-color);
+}
+
+.error-box .search form button {
+  background: var(--default-color);
+}
+
+.footer-top .footer-top-content ul li a:hover {
+  color: var(--default-color);
+}
+
+
+footer .f-item.link li a:hover {
+  color: var(--default-color);
+}
+
+footer .f-item .download a i {
+  color: var(--default-color);
+}
+
+.page-numbers {
+  color: var(--default-color);
+}
+
+.blog-area .pagi-area .pagination li span {
+  background: var(--default-color);
+  border-color: var(--default-color);
+}
+
+#wp-calendar a, a:active, a:focus, a:hover {
+  color: var(--default-color);
+}
+
+.wp-calendar-nav-prev a,
+.wp-calendar-nav-next a {
+  color: var(--default-color);
+}
+
+
+.tagcloud a:hover {
+  color: var(--default-color);
+}
+
+
+input[type="submit"],
+.wp-block-search__button{
+  background: var(--default-color);
+}
+
+.widget_calendar caption {
+  color: var(--default-color);
+}
+
+.widget_calendar a {
+  color: var(--default-color) !important;
+}
+
+
+.widget_calendar td#today {
+  background: var(--default-color);
+}
+
+.button-fix {
+  background: var(--default-color);
+}
+
+.blog-area .sticky .item .post-sticky span {
+  background: var(--default-color);
+}
+
+.blog-area .sidebar .wp-block-group__inner-container h2::after {
+  background: var(--default-color);
+}
+
+
+.blog-area .sidebar .wp-block-calendar nav.wp-calendar-nav a {
+  color: var(--default-color);
+}
+
+.blog-area .sidebar .has-avatars.wp-block-latest-comments li footer time.wp-block-latest-comments__comment-date {
+  color: var(--default-color);
+}
+
+.about-area.version-three ul li::after {
+  background: var(--default-color);
+}
+
+.choose-us-area .info ul li::after {
+  color: var(--default-color);
+}
+
+.color-customizer a.opener {
+  background: var(--default-color);
+}
+
+.color-customizer .text-theme {
+  color: var(--default-color);
+}
+
+.services-details-items .services-sidebar .widget-title::after {
+    border-bottom: 2px solid var(--default-color);
+}
+
+.services-details-items .services-sidebar .services-list li.current-item a,
+.services-details-items .services-sidebar .services-list li a:hover {
+  border: 3px solid var(--default-color);
+}
+
+.services-details-items .services-sidebar .single-widget.quick-contact .content i {
+    background: var(--default-color);
+}
+
+.services-details-items .services-sidebar .single-widget.quick-contact .content i::after {
+    background: var(--default-color);
+}
+
+.services-details-items .services-sidebar .single-widget.brochure a {
+    background: var(--default-color);
+}
+
+.services-details-items .services-sidebar .single-widget.brochure a:hover,
+.services-details-items .services-sidebar .single-widget.brochure li:last-child a:hover {
+    background: var(--default-color);
+}
+
+.services-details-area .features i {
+    color: var(--default-color);
+}
+
+.services-area .services-box .item i {
+  color: var(--default-color);
+}
+
+.team-single-area .right-info span {
+    color: var(--default-color);
+}
+
+
+.team-single-area .right-info ul li a:hover {
+    color: var(--default-color);
+}
+
+.team-single-area .social ul li a:hover {
+  background: var(--default-color);
+}
+
+.team-single-area .content > span {
+    color: var(--default-color);
+}
+
+.project-details-area .project-info > ul li i {
+    color: var(--default-color);
+}
+
+/* Gradients */
+
+.bg-gradient {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 56%);
+}
+
+
+.btn-gradient::after {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 56%);
+}
+
+.breadcrumb-area.less-background {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 56%);
+}
+
+.about-area .info .progress-box .progress .progress-bar {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 100%);
+}
+
+.technology-area a h5::after {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 56%);
+}
+
+.work-process-area .process-items .item::after {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 56%);
+}
+
+.choose-us-area .skill-items .progress-box .progress .progress-bar {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 100%);
+}
+
+.team-area .team-items .item .info::after {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 56%);
+}
+
+
+.team-area .team-items .thumb::after {
+  background: rgba(0, 0, 0, 0) linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 1) 150%) repeat scroll 0 0;
+}
+
+.team-single-area .basic-info::after {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 100%);
+}
+
+
+.case-studies-area .case-carousel .item::after {
+  background: rgba(0, 0, 0, 0) linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 150%) repeat scroll 0 0;
+}
+
+.case-items-area .pf-item .item::after {
+  background: rgba(0, 0, 0, 0) linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 150%) repeat scroll 0 0;
+}
+
+.pricing-area.half-bg::after {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 56%);
+}
+
+.footer-top .footer-top-content form button {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 56%);
+}
+
+.demo-area.demo-conten .single-item a span {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 100%);
+}
+
+.demo-area .rtl-version a {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 100%);
+}
+
+.demo-area .single-item .info a {
+  background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(101,220,252,1) 56%);
+}
